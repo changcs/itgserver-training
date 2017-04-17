@@ -1,0 +1,2 @@
+* itgserver-training itgserver 新手求生指南
+Some basic training for itgsever newbies。
