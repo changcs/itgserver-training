@@ -9,7 +9,8 @@
   3. 認識 [[https://lede-project.org/][LEDE Project (“Linux Embedded Development Environment”)]] 。
   4. 下載和編譯 LEDE Project source code 以便在一些 open platforms 上運作。
   5. 選擇順手的 editor 以打造屬於自己的 C 或 scripts 程式語言開發環境。
-  6. 下一步的學習方向。
+  6. [[https://wireless.wiki.kernel.org/en/developers/documentation][Linux Kernel 開發者文件集]]
+  7. 下一步的學習方向。
 
 總而言之，歡迎大家丟 PR ，一起來幫忙。
 
