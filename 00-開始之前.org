@@ -17,5 +17,19 @@
   1. 查閱 [[https://wireless.wiki.kernel.org/en/developers/documentation][Linux Kernel 無線開發者文件集]]
   2. 參考 [[https://hewlettpackard.github.io/wireless-tools/Tools.html][Wireless tools for Linux wiki,]] Clone 和編譯 [[https://github.com/HewlettPackard/wireless-tools.git][Wireless-tools git repository.]] 並且在 PC 上執行。
 
+** Python Script 部分可以學到什麼？
+看完這一系列文章，希望你 *能* 學會：
+
+  1. 在Win7上面架設python環境，下載及設定環境變數PATH
+     - [[http://ithelp.ithome.com.tw/articles/10156296][圖文教學]]
+     - [[https://www.python.org/downloads/windows][官網下載頁面]]
+     - 安裝成功後於 cmd 輸入 python -V ， 將得到目前版本，若 =PATH= 沒正確設定會看不到。
+  2.  下載套件管理器 pip (若安裝python 3.4 以上版本, 此套件已內建)
+     - [[https://pip.pypa.io/en/stable/installing/#do-i-need-to-install-pip][下載及安裝手冊]]
+     - 於 =cmd= 模式下輸入 =pip -h= ，檢查是否有安裝成功
+  3. 下載套件. 舉例 =requests= 為例子， 此套件用於 =HTTP request= 封包模擬會用到此套件。
+     - =pip install requests=
+     - =pip show requests=
+
 總而言之，歡迎大家丟 PR ，一起來幫忙。
 
