@@ -1,7 +1,7 @@
 * 前言
 之前對 itgserver 的新人並沒有任何系統化的訓練課程。因此，這是我們在 2017 年開始的一個嘗試，希望能改善這個狀況。要注意的是，這裡我們只會提到網路上可以公開找到的「自由軟體」或是「開源軟體」的相關內容，除此之外，任何與私人企業內部相關內容是 *絕對禁止* 的。
 
-** 可以學到什麼？
+** 基礎部分可以學到什麼？
 看完這一系列文章，希望你 *能* 學會：
 
   1. Linux 文字介面下的一些基本操作。
@@ -9,8 +9,13 @@
   3. 認識 [[https://lede-project.org/][LEDE Project (“Linux Embedded Development Environment”)]] 。
   4. 下載和編譯 LEDE Project source code 以便在一些 open platforms 上運作。
   5. 選擇順手的 editor 以打造屬於自己的 C 或 scripts 程式語言開發環境。
-  6. [[https://wireless.wiki.kernel.org/en/developers/documentation][Linux Kernel 無線開發者文件集]]
-  7. 下一步的學習方向。
+  6. 下一步的學習方向。
+
+** 802.11 無線部分可以學到什麼？
+看完這一系列文章，希望你 *能* 學會：
+
+  1. 查閱 [[https://wireless.wiki.kernel.org/en/developers/documentation][Linux Kernel 無線開發者文件集]]
+  2. 參考 [[https://hewlettpackard.github.io/wireless-tools/Tools.html][Wireless tools for Linux wiki,]] Clone 和編譯 [[https://github.com/HewlettPackard/wireless-tools.git][Wireless-tools git repository.]] 並且在 PC 上執行。
 
 總而言之，歡迎大家丟 PR ，一起來幫忙。
 
