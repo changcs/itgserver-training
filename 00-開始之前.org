@@ -7,6 +7,7 @@
   1. Linux 文字介面下的一些基本操作。
      - [[http://linux.vbird.org/linux_basic/0340bashshell-scripts.php][鳥哥的 Linux 私房菜: 學習 Shell Scripts]]
   2. Linux 文字介面下的一些基本 git 操作。
+     - [[http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html][A Beginner's Git and GitHub Tutorial]]
   3. 認識 [[https://lede-project.org/][LEDE Project (“Linux Embedded Development Environment”)]] 。
   4. 下載和編譯 LEDE Project source code 以便在一些 open platforms 上運作。
   5. 選擇順手的 editor 以打造屬於自己的 C 或 scripts 程式語言開發環境。
