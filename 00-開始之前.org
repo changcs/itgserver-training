@@ -5,6 +5,7 @@
 看完這一系列文章，希望你 *能* 學會：
 
   1. Linux 文字介面下的一些基本操作。
+     - [[http://linux.vbird.org/linux_basic/0340bashshell-scripts.php][鳥哥的 Linux 私房菜: 學習 Shell Scripts]]
   2. Linux 文字介面下的一些基本 git 操作。
   3. 認識 [[https://lede-project.org/][LEDE Project (“Linux Embedded Development Environment”)]] 。
   4. 下載和編譯 LEDE Project source code 以便在一些 open platforms 上運作。
@@ -16,6 +17,7 @@
 
   1. 查閱 [[https://wireless.wiki.kernel.org/en/developers/documentation][Linux Kernel 無線開發者文件集]]
   2. 參考 [[https://hewlettpackard.github.io/wireless-tools/Tools.html][Wireless tools for Linux wiki,]] Clone 和編譯 [[https://github.com/HewlettPackard/wireless-tools.git][Wireless-tools git repository.]] 並且在 PC 上執行。
+  3. [[https://wiki.openwrt.org/doc/uci/wireless][LEDE/OpenWrt Wireless UCI interface]]
 
 ** Python Script 部分可以學到什麼？
 看完這一系列文章，希望你 *能* 學會：
