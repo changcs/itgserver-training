@@ -19,6 +19,13 @@
   1. 查閱 [[https://wireless.wiki.kernel.org/en/developers/documentation][Linux Kernel 無線開發者文件集]]
   2. 參考 [[https://hewlettpackard.github.io/wireless-tools/Tools.html][Wireless tools for Linux wiki,]] Clone 和編譯 [[https://github.com/HewlettPackard/wireless-tools.git][Wireless-tools git repository.]] 並且在 PC 上執行。
   3. [[https://wiki.openwrt.org/doc/uci/wireless][LEDE/OpenWrt Wireless UCI interface]]
+  4. 參考 [[https://wireless.wiki.kernel.org/en/users/documentation][Linux Wireless Documentation]] 以了解以下主題
+     - Wireless modes
+     - DFS
+     - ACS
+     - hostapd
+     - wpa_supplicant
+  5. 接續前一項，自己試著下載原始碼並編譯 =hostapd= 和 =wpa_supplicant=
 
 ** Python Script 部分可以學到什麼？
 看完這一系列文章，希望你 *能* 學會：
